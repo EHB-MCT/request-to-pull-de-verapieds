@@ -18,5 +18,5 @@ Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachte
 * Pull requests worden gereviewed door iedereen in het team
 * Pull requests worden pas gemerged op het moment dat iedereen de request heeft gereviewed
 * Delete geen branches
-* Zorg ervoor dat je branches de juiste benamingen hebben
+* Zorg ervoor dat je branches de juiste benamingen hebben.
 
